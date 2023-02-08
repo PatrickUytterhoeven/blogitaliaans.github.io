@@ -1,0 +1,18 @@
+---
+title: "Italiaans studeren"
+subtitle: "Een kronkelende weg"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.
+
+Voorlopig is er alleen een tab met grammatica. Weldra zal er ook een tab zijn met korte fragmenten uit de actualiteit.

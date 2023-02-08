@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "0a0fcbb0"
+  },
+  "about.qmd": {
+    "about.html": "c1db9dfb"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "3608dc7e"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "a6bf2487"
+  },
+  "blog.qmd": {
+    "blog.html": "f966a39d"
+  },
+  "grammatica.qmd": {
+    "grammatica.html": "f38ee59d"
+  },
+  "post_gramm/verbi1/grammatica1.qmd": {
+    "grammatica1.html": "8411ed3e"
+  },
+  "post_gramm/verbi2/Indicativo_Imperfetto.qmd": {
+    "Indicativo_Imperfetto.html": "569d1c2a"
+  }
+}
