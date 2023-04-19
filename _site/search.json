@@ -18,14 +18,14 @@
     "href": "grammatica.html",
     "title": "Grammatica",
     "section": "",
-    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n0 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hier vind je een aantal posts over italiaanse grammatica. De serie wordt geleidelijk aangevuld.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPreposizione articolati\n\n\n0 min\n\n\n\nvoorzetsels\n\n\n\n\n\n\n\nApr 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerbi\n\n\n2 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIndicativo Imperfetto\n\n\n0 min\n\n\n\nwerkwoorden\n\n\n\n\n\n\n\nJan 31, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Italiaans studeren",
     "section": "",
-    "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nVoorlopig is er alleen een tab met grammatica. Weldra zal er ook een tab zijn met korte fragmenten uit de actualiteit."
+    "text": "Sinds enige tijd ben ik gestart met Italiaans te studeren. Het leek me dan een goed idee om in een blog wat materiaal bij elkaar te brengen. Dat stimuleert en mogelijk beweegt het anderen om materiaal aan te leveren dat ik eventueel kan verwerken.\nTevens is deze website voor mij een oefening om een site aan te maken in Quarto en R.\nIk ben geen talenwonder, en het is ook niet mijn bedoeling om vloeiend Italiaans te spreken. Ik ben in de eerste plaats geïnteresseerd in het rijke culturele erfgoed, de kunst, de literatuur, de opera.\nIk ben verbaasd hoe weinig goed materiaal open source beschikbaar is in het Nederlands om vlot Italiaans te leren. Als econometrist ben ik gewend om gratis degelijk studiemateriaal op het net te vinden. Voor talen, althans vanuit het Nederlands, is dat quasi onmogelijk. Voor alles moet je betalen. Eigenaardig. Moeilijke domeinen zoals Bayesiaanse statistiek, differentiaalvergelijkingen, multivariate regressie,.. zijn zomaar gratis te vinden, maar basisteksten om een nieuwe taal te leren zijn betalend!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -42,6 +42,13 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "post_gramm/preparticolate/preparticolate1.html",
+    "href": "post_gramm/preparticolate/preparticolate1.html",
+    "title": "Preposizione articolati",
+    "section": "",
+    "text": "DA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Vado dal dottore. \n    Ik ga naar de dokter. \n    da \n  \n  \n    Ho ricevuto una cartolina dall' Italia. \n    Ik kreeg een ansichtkaart uit Italië. \n    da \n  \n  \n    Il colore è indipendente dallo spessore. \n    De kleur is onafhankelijk van de dikte. \n    da \n  \n  \n    Scendo dalla metropolitana. \n    Ik stap uit de metro. \n    da \n  \n  \n    A pranzo vado dai miei nonni. \n    Ik ga lunchen bij mijn grootouders. \n    da \n  \n  \n    Ma abbiamo imparato molto dagli errori. \n    Maar we hebben veel geleerd van fouten. \n    da \n  \n  \n    A cena vado dalle mie amiche. \n    Ik ga naar mijn vrienden voor het avondeten. \n    da \n  \n\n\n\n\n\n\n\nDI\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Scusi, dov'è il parcheggio del ristorante? \n    Pardon, waar is de parkeerplaats van het restaurant? \n    di \n  \n  \n    Dov'è l'entrata dell' albergo? \n    Waar is de hotelingang? \n    di \n  \n  \n    La dimensione economica dello sport \n    De economische dimensie van sport \n    di \n  \n  \n    Qesta borsa è della mia amica Eva. \n    Deze tas is van mijn vriendin Eva. \n    di \n  \n  \n    Questa è l'auto dei miei genitori. \n    Dit is de auto van mijn ouders. \n    di \n  \n  \n    Il passaporto è degli zii di Lucia. \n    Het paspoort is van Lucia's ooms. \n    di \n  \n  \n    La riforma delle pensioni \n    De pensioenhervorming \n    di \n  \n\n\n\n\n\n\n\nAL\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Per fare la spesa vado al supermercato. \n    Om boodschappen te doen ga ik naar de supermarkt. \n    al \n  \n  \n    Pranzo sempre all' una. \n    ik lunch altijd om één uur. \n    al \n  \n  \n    Prestiamo alta attenzione allo sviluppo di nuovo stile dei prodotti. \n    We besteden veel aandacht aan de ontwikkeling van nieuwe stijlproducten. \n    al \n  \n  \n    Domani mattina devo andare alla stazione. \n    Morgenochtend moet ik naar het station. \n    al \n  \n  \n    Mi piace il risotto ai funghi. \n    Ik hou van paddenstoelenrisotto. \n    al \n  \n  \n    Ho comprato una crema agli asparagi. \n    Ik heb een aspergecrème gekocht. \n    al \n  \n  \n    Dalle scarpe alle forniture per auto e dalla vernice alle scorte scolastiche. \n    Van schoenen tot autospullen en van verf tot schoolspullen. \n    al \n  \n\n\n\n\n\n\n\nIN\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    Nel mio giardino ci sono tanti fiori e piante. \n    In mijn tuin staan ​​veel bloemen en planten. \n    in \n  \n  \n    I vestiti sono nell' armadio. \n    De kleren liggen in de kast. \n    in \n  \n  \n    Piccoli raggruppamenti sparsi nel mondo nello stesso istante. \n    Kleine groepen verspreidden zich op hetzelfde moment over de hele wereld. \n    in \n  \n  \n    Il portafoglio è nella borsa. \n    De portemonnee zit in de tas. \n    in \n  \n  \n    Ci sono nei mercati e nei supermercati, gustosi oggetti in vendita. \n    Er zijn op markten en supermarkten lekkere dingen te koop. \n    in \n  \n  \n    Un mio amico vive negli Stati Uniti. \n    Een vriend van mij woont in de VS. \n    in \n  \n  \n    Ci sono tanti turisti nelle città italiane. \n    Er zijn veel toeristen in Italiaanse steden. \n    in \n  \n\n\n\n\n\n\n\nSU\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n  \n    italiano \n    nederlands \n    preposizione \n  \n \n\n  \n    La bottiglia è sul tavolo. \n    De fles staat op tafel. \n    su \n  \n  \n    Il gatto è sull'albero. \n    De kat zit in de boom. \n    su \n  \n  \n    Vorrei aggiungere qualcosa sullo sport nella scuola. \n    Ik wil nog iets toevoegen over sport op school. \n    su \n  \n  \n    C'è un ragno sulla tua maglietta! \n    Er zit een spin op je shirt! \n    su \n  \n  \n    Ho comprato un libro sui poeti italiani. \n    Ik kocht een boek over Italiaanse dichters. \n    su \n  \n  \n    C'è una macchia sugli stivali. \n    Er zit een vlek op de laarzen. \n    su \n  \n  \n    Vado in vacanza sulle Alpi. \n    Ik ga op vakantie naar de Alpen. \n    su"
+  },
+  {
     "objectID": "post_gramm/verbi1/grammatica1.html",
     "href": "post_gramm/verbi1/grammatica1.html",
     "title": "Verbi",
@@ -54,5 +61,12 @@
     "title": "Indicativo Imperfetto",
     "section": "Verbi",
     "text": "Verbi\n\nParlareRidereSentirePreferire\n\n\nparlavo\nparlavi\nparlava\nparlavamo\nparlavate\nparlavano\n\n\nridevo\nridevi\nrideva\nridevamo\nridevate\nridevano\n\n\nsentivo\nsentivi\nsentiva\nsentivamo\nsentivate\nsentivano\n\n\npreferivo\npreferivi\npreferiva\npreferivamo\npreferivate\npreferivano"
+  },
+  {
+    "objectID": "zinnen.html",
+    "href": "zinnen.html",
+    "title": "Zinnen oefenen",
+    "section": "",
+    "text": "Hier vind je een aantal presentaties met zinnen die dienen om het vertalen te oefenen. Op de eerste HTML - slide vind je alle zinnen van de reeks. Kopieer deze naar Google Translate en beluister ze driemaal met eveneens een blik op de vertaling. Luister vervolgens opnieuw driemaal, zonder naar de vertaling van Google Translate te kijken. Vervolgens oefen je deze zinnen op de volgende slides. In de linkertab staat het Nederlands, en het antwoord vind je in de rechtertab ter controle (klik de rechtertab aan om je antwoord te controleren)\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nReeks 1\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
