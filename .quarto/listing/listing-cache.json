@@ -3,6 +3,15 @@
     "blog.qmd": [
       "posts"
     ],
+    "blogitaliaans.github.io\\blog.qmd": [
+      "posts"
+    ],
+    "blogitaliaans.github.io\\grammatica.qmd": [
+      "post_gramm"
+    ],
+    "blogitaliaans.github.io\\zinnen.qmd": [
+      "post_zinnen"
+    ],
     "grammatica.qmd": [
       "post_gramm"
     ],
