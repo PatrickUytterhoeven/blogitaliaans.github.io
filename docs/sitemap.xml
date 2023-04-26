@@ -2,90 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blogitaliaans.netlify.app/about.html</loc>
-    <lastmod>2023-04-20T08:54:24.234Z</lastmod>
+    <lastmod>2023-04-20T10:12:16.910Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/blog.html</loc>
-    <lastmod>2023-04-20T08:54:24.761Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/about.html</loc>
-    <lastmod>2023-04-20T08:54:25.123Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/blog.html</loc>
-    <lastmod>2023-04-20T08:54:25.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/grammatica.html</loc>
-    <lastmod>2023-04-20T08:54:27.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/index.html</loc>
-    <lastmod>2023-04-20T08:54:27.417Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-04-20T08:54:29.076Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-04-20T08:54:29.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/post_gramm/preparticolate/preparticolate1.html</loc>
-    <lastmod>2023-04-20T08:54:33.530Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/post_gramm/verbi1/grammatica1.html</loc>
-    <lastmod>2023-04-20T08:54:39.056Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/post_gramm/verbi2/Indicativo_Imperfetto.html</loc>
-    <lastmod>2023-04-20T08:54:39.680Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/post_zinnen/reeks1/reeks1.html</loc>
-    <lastmod>2023-04-20T08:54:39.992Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blogitaliaans.netlify.app/blogitaliaans.github.io/zinnen.html</loc>
-    <lastmod>2023-04-20T08:54:41.264Z</lastmod>
+    <lastmod>2023-04-20T10:12:17.293Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/grammatica.html</loc>
-    <lastmod>2023-04-20T08:54:42.809Z</lastmod>
+    <lastmod>2023-04-20T10:12:18.721Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/index.html</loc>
-    <lastmod>2023-04-20T08:54:43.156Z</lastmod>
+    <lastmod>2023-04-20T10:12:19.029Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/posts/post-with-code/index.html</loc>
-    <lastmod>2023-04-20T08:54:43.752Z</lastmod>
+    <lastmod>2023-04-20T10:12:19.817Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/posts/welcome/index.html</loc>
-    <lastmod>2023-04-20T08:54:44.124Z</lastmod>
+    <lastmod>2023-04-20T10:12:20.090Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/post_gramm/preparticolate/preparticolate1.html</loc>
-    <lastmod>2023-04-20T08:54:47.865Z</lastmod>
+    <lastmod>2023-04-20T10:12:23.583Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/post_gramm/verbi1/grammatica1.html</loc>
-    <lastmod>2023-04-20T08:54:53.520Z</lastmod>
+    <lastmod>2023-04-20T10:12:28.172Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/post_gramm/verbi2/Indicativo_Imperfetto.html</loc>
-    <lastmod>2023-04-20T08:54:53.841Z</lastmod>
+    <lastmod>2023-04-20T10:12:28.508Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/post_zinnen/reeks1/reeks1.html</loc>
-    <lastmod>2023-04-20T08:54:54.188Z</lastmod>
+    <lastmod>2023-04-20T10:12:28.838Z</lastmod>
   </url>
   <url>
     <loc>https://blogitaliaans.netlify.app/zinnen.html</loc>
-    <lastmod>2023-04-20T08:54:55.641Z</lastmod>
+    <lastmod>2023-04-20T10:12:30.117Z</lastmod>
   </url>
 </urlset>
